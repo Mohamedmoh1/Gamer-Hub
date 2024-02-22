@@ -1,0 +1,19 @@
+.sizeForm{
+ width: 30%;
+
+}
+
+.posForm{
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cardsM{
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+ margin-top: 95px; 
+  font-size: xx-large;
+  
+}
